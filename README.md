@@ -1,7 +1,7 @@
 ### Olá !! Muito Prazer, Vinicius, Seja bem Vindo(a) 👋
 
 - 🔭 Atualmente trabalho com Front-End & Backend
-- 🌱 Estudando JavaScript, TypeScript, AngularJS, ReactJS e NodeJS
+- 🌱 Trabalhando com JavaScript, TypeScript e Angular. Estudando Flutter.
 - 📫 Contate-me no e-mail: vini383@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Aprendendo a tocar teclado 🎹
