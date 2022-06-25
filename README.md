@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/viniciusbernardo22">
 
-  <img height="180em" src=""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbernardo22&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
   <div style="display: inline_block"><br>
