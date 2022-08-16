@@ -1,4 +1,4 @@
-### Olá !! Muito Prazer, Vinicius, Seja bem Vindo(a) 👋
+### Olá ! Muito Prazer, Vinicius, Seja bem Vindo(a) 👋
 
 - 🔭 Atualmente trabalho com Front-End & Backend
 - 🌱 Trabalhando com JavaScript, TypeScript, Angular, React & NodeJS. Estudando Flutter.
