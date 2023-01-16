@@ -9,8 +9,7 @@
 <div align="center">
   <a href="https://github.com/viniciusbernardo22">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusbernardo22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viniciusbernardo22&theme=react&line_height=40&hide=css"/> </a>
-    
+   <a href=""><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbernardo22&layout=compact&langs_count=7&theme=merko"/></a>
  
 </div>
 
