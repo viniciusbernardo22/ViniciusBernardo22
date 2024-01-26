@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Vinicius</h1>
 <h3 align="center">.NET developer && Angular Expert.</h3>
 
-<a href="https://wakatime.com/@018d4181-bdf8-4c25-8353-d33c910e152a"><img src="https://wakatime.com/badge/user/018d4181-bdf8-4c25-8353-d33c910e152a.svg" alt="Total time coded since Jan 25 2024" /></a>
+<a align="center" href="https://wakatime.com/@018d4181-bdf8-4c25-8353-d33c910e152a"><img src="https://wakatime.com/badge/user/018d4181-bdf8-4c25-8353-d33c910e152a.svg" alt="Total time coded since Jan 25 2024" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=viniciusbernardo22&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusbernardo22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viniciusbernardo22" alt="viniciusbernardo22" /></a> </p>
